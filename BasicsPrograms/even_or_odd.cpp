@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstdio>
-using std::cout;
-using std::endl;
+using namespace std;
 
 void check(int);
 
