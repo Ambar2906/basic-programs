@@ -1,5 +1,5 @@
-/*
-                                #pattern 1
+
+//                                #pattern 1
 #include <iostream>
 using namespace std;
 
@@ -36,9 +36,6 @@ Enter a number: 5
 ***
 ****
 *****
-
-*/
-
 
 /*
                                 #pattern2
